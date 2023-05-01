@@ -1,2 +1,2 @@
 # Restaurant-Website
-using Bootstrap 5 classes
+Responsive Food And Restaurant Website Using Bootstrap 5, HTML, CSS, JS
